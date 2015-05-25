@@ -5,6 +5,8 @@ A simplified example of how to build a proxy to allow web apps to subscribe to m
 
 ![arch diagram](http://dalelane.co.uk/blog/post-images/150519-mqlight-with-websockets.jpg)
 
+More background at http://dalelane.co.uk/blog/?p=3306 
+
 ## Usage (client)
 ### Snippet to include in HTML
 ```
